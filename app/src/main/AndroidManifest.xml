@@ -48,7 +48,7 @@
             android:screenOrientation="portrait"
             android:theme="@style/SettingsTheme" />
         <activity
-            android:name="com.crdroid.faceunlock.FaceValuePropActivity"
+            android:name="com.aicp.faceunlock.FaceValuePropActivity"
             android:excludeFromRecents="true"
             android:launchMode="standard"
             android:screenOrientation="portrait"
